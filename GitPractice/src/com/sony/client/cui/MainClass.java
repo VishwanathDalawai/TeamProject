@@ -6,7 +6,7 @@ public class MainClass {
 
 		
 System.out.println("namrata");
-System.out.println("newjkds");
+System.out.println("newjds");
 
 	}
 
